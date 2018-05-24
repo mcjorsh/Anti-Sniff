@@ -1,9 +1,0 @@
-include gui/server_data/server.crt
-include gui/server_data/server.csr
-include gui/server_data/server.pem
-include gui/server_data/server.key
-include gui/server_conf/favicon.ico
-include gui/server_conf/index.html
-include gui/server_conf/log.stinky
-include gui/server_conf/login.html
-include gui/server_conf/stinky.conf
