@@ -2,7 +2,7 @@
 Anti-Sniff CONNECT + Automatic Payload + Proxy
 
 
-![mcjorsh](/Anti-Sniff/2017-06-26.png)
+![mcjorsh](Anti-Sniff/2017-06-26.png)
 
 
 ![mcjorsh](Anti-Sniff/2017-06-26.png "Title")
