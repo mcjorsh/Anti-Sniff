@@ -1,7 +1,10 @@
 # Anti-Sniff
 Anti-Sniff CONNECT + Automatic Payload + Proxy
 
-![2017-06-28](https://user-images.githubusercontent.com/37552072/40511175-2c606784-5f5c-11e8-8a9e-c3ea07c5448d.png)
+![5b46a019-fbce-438d-9c41-d081444f3888](https://user-images.githubusercontent.com/37552072/40511254-581d1110-5f5c-11e8-89ec-01e58da6dfd3.jpg)
+
+
+
 
 To test the application with your own server you must first open an individual sale of the program and configure the IP address and port and give START
 the server will remain running until the window closes.
@@ -50,3 +53,6 @@ the payload is sent automatically after establishing the connection
 it is understood?
 that is: in the CONNECT part
 When you connect as a client in the log window, the payload appears if the connection is satisfied and if no error is shown
+
+
+![2017-06-28](https://user-images.githubusercontent.com/37552072/40511175-2c606784-5f5c-11e8-8a9e-c3ea07c5448d.png)
