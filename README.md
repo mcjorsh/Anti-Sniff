@@ -1,5 +1,5 @@
 # Anti-Sniff
-Anti-Sniff CONNECT + Automatic Payload + Proxy
+Anti-Sniff + Automatic Payload CONNECT + Proxy
 
 ![5b46a019-fbce-438d-9c41-d081444f3888](https://user-images.githubusercontent.com/37552072/40511254-581d1110-5f5c-11e8-89ec-01e58da6dfd3.jpg)
 
