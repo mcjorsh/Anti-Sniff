@@ -1,7 +1,7 @@
 # Anti-Sniff
 Anti-Sniff CONNECT + Automatic Payload + Proxy
 
-<a href="URL_DE_LA_IMAGEN"><img src="https://www.google.com/search?q=antisniff&client=opera&hs=v9y&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGmMm5kJ_bAhVSnFkKHc4mBMEQ_AUoAXoECAEQAw&biw=1240&bih=887#imgrc=H93tFeQljjCZ3M:" /></a>
+<img src="http://www.ilustres.org/bb-templates/scoun/images/header/header.jpg" />
 
 To test the application with your own server you must first open an individual sale of the program and configure the IP address and port and give START
 the server will remain running until the window closes.
