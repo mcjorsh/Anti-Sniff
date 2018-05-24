@@ -1,11 +1,10 @@
 # Anti-Sniff
-Anti-Sniff CONNECT
+Anti-Sniff CONNECT + Automatic Payload + Proxy
+
+<a href="URL_DE_LA_IMAGEN"><img src="https://www.google.com/search?q=antisniff&client=opera&hs=v9y&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGmMm5kJ_bAhVSnFkKHc4mBMEQ_AUoAXoECAEQAw&biw=1240&bih=887#imgrc=H93tFeQljjCZ3M:" /></a>
 
 To test the application with your own server you must first open an individual sale of the program and configure the IP address and port and give START
 the server will remain running until the window closes.
-
-After you start the server you can navigate to the website and see the sample files (in this case a fake login session)
-Keep in mind that it depends what browser you use, it can give you an 'insecure connection warning' (because we use a certificate from us that is not the one that the browser has included in its list of trusted certs) but you can confirm the security exception and see the login
 
 After you start the server you can navigate to the website and see the sample files (in this case a fake login session)
 Keep in mind that it depends what browser you use, it can give you an 'insecure connection warning' (because we use a certificate from us that is not the one that the browser has included in its list of trusted certs) but you can confirm the security exception and see the login
