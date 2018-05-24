@@ -1,8 +1,11 @@
 # Anti-Sniff
 Anti-Sniff CONNECT + Automatic Payload + Proxy
 
-![mcjorsh](mcjorsh/Anti-Sniff/2017-06-26.png)
+
 ![mcjorsh](/Anti-Sniff/2017-06-26.png)
+
+
+![mcjorsh](Anti-Sniff/2017-06-26.png "Title")
 
 To test the application with your own server you must first open an individual sale of the program and configure the IP address and port and give START
 the server will remain running until the window closes.
